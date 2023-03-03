@@ -18,7 +18,59 @@ ol {
 
 td {
     color: rgb(188, 222, 102);
-}
+}h1 {
+    color: bisque;
+    }
+    
+    body {
+        background-color: red;
+    }
+    
+    table {
+        color: black;
+        border-color: rgb(243, 243, 51);
+        width: 50%;
+    }
+    
+    ol {
+        color: beige;
+    }
+    
+    td {
+        color: rgb(188, 222, 102);
+    }
+    p {
+        color: aliceblue;
+    }
+    
+    label {
+        color: rgb(214, 77, 214);
+    }
+    
+    #info1 {
+        color:black;
+    }
+    
+    #infoBody {
+        background-color: bisque;
+    }
+    
+    #h1Info {
+        color: rgb(34, 15, 63);
+    }
+    
+    #InfoCardText {
+        color: rgb(5, 5, 145);
+    }
+    
+    #InfoCardTitle {
+        color: rgb(0, 0, 0);
+        font-weight: 200;
+    }
+    
+    #home {
+        color: black;
+    }
 p {
     color: aliceblue;
 }
